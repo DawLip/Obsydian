@@ -11,7 +11,7 @@
             "id": "04df98c46ee66eae",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -140,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db350dbb9c918b6b",
+  "active": "04df98c46ee66eae",
   "lastOpenFiles": [
     "test.md"
   ]
