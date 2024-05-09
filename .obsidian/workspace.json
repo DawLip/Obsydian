@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "88f1ff594bb15e94",
+    "id": "a1d4a1797608e1a8",
     "type": "split",
     "children": [
       {
-        "id": "f6134ec30158b784",
+        "id": "7e4a0f06fcf7a373",
         "type": "tabs",
         "children": [
           {
-            "id": "04df98c46ee66eae",
+            "id": "61ac33f2bbe4fb1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notes/Ideas for websites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c5a215a03890015",
+    "id": "6ee43b465f9b3a8b",
     "type": "split",
     "children": [
       {
-        "id": "4c773ff5e789fd5b",
+        "id": "764b86b32657212b",
         "type": "tabs",
         "children": [
           {
-            "id": "db350dbb9c918b6b",
+            "id": "cdedbbd3ef44fd49",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +43,12 @@
             }
           },
           {
-            "id": "5af65e0155d12060",
+            "id": "d9da9b3fdabca5ca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1hour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "5c3f7b4da84bf494",
+            "id": "35ae1592f57523ec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
-    "id": "87a7e57ca14c01a7",
+    "id": "7aa5fd8b86dd4e95",
     "type": "split",
     "children": [
       {
-        "id": "425964c2b0821f58",
+        "id": "36b2aa718059f824",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1a35ee2cea43a2",
+            "id": "faad31ad39fc4a42",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Notes/Ideas for websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "521bd73bea486ac1",
+            "id": "334b532b1b3d05c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Notes/Ideas for websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "89d55db983f634b1",
+            "id": "ff5633b9ad66cc7c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +120,21 @@
             }
           },
           {
-            "id": "095854a3b4be189d",
+            "id": "ee713b7ffe06d833",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Notes/Ideas for websites.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04df98c46ee66eae",
+  "active": "61ac33f2bbe4fb1c",
   "lastOpenFiles": [
-    "test.md"
+    "6 - Notes/Personal/Standard things to take.md",
+    "6 - Notes/Personal/Daily/2024-05-09.md",
+    "6 - Notes/Design website training.md",
+    "6 - Notes/Personal/Standard things to take.md.2024-05-09_15.02.29.foldersync.old",
+    "6 - Notes/Personal/Standard things to take.md.2024-05-09_15.02.29.foldersync-f7e0.ffs_tmp",
+    "6 - Notes/Ideas for websites.md.2024-05-09_15.02.28.foldersync.old",
+    "6 - Notes/Ideas for websites.md.2024-05-09_15.02.28.foldersync-bf99.ffs_tmp",
+    "sync.ffs_lock",
+    "5 - Templates/YT source Template.md",
+    "6 - Notes/Personal/Routines/Untitled.md",
+    "2 - Source Materials/YT \"Typography - Ultimate Design System Breakdown (Font Sizes, Text Style Naming, Responsive Scaling)\".md",
+    "2 - Source Materials/YT \"Spacing - Analyzing The Top Design Systems (Figma Spacing Variables)\".md",
+    "6 - Notes/YT cannals.md",
+    "5 - Templates/Full Note Template.md",
+    "6 - Notes/Design System Summary.md",
+    "6 - Notes/Typography.md",
+    "6 - Notes/Visuals for UI.md",
+    "6 - Notes/Personal/Introduced habits.md",
+    "6 - Notes/Spacing.md",
+    "6 - Notes/Accesses website idea.md",
+    "6 - Notes/Ideas for websites.md",
+    "5 - Templates/Daily Template.md",
+    "6 - Notes/Personal/Routines/Morning/Morning habits v1.md",
+    "6 - Notes/Personal/Routines/Evening/Evening habits v1.md",
+    "6 - Notes/Personal/Daily/2024-05-08.md",
+    "3 - Tags/habits.md",
+    "3 - Tags/habbits.md",
+    "6 - Notes/Personal/Routines/Evening",
+    "6 - Notes/Personal/Routines/Morning",
+    "6 - Notes/Personal/Routines",
+    "6 - Notes/2024-05-08-876d.ffs_tmp",
+    "6 - Notes/figma.md",
+    "3 - Tags/ideas.md",
+    "3 - Tags/daily.md",
+    "6 - Notes/Personal/Daily",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

@@ -1,1 +1,9 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Notes",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "5 - Templates/",
+    "6 - Notes/Personal/Daily/"
+  ]
+}
