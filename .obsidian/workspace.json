@@ -11,12 +11,8 @@
             "id": "813c5f28b97b7841",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee713b7ffe06d833",
+  "active": "813c5f28b97b7841",
   "lastOpenFiles": [
-    "5 - Notes/Dawid Krynicki Fryzjer.md",
     "5 - Notes/1 - Personal/Daily/2024-09-18.md",
+    "5 - Notes/Dawid Krynicki Fryzjer.md",
     "5 - Notes/1 - Personal/Daily/2024-09-16.md",
     "5 - Notes/1 - Personal/Daily/2024-08-06.md",
     "5 - Notes/1 - Personal/Daily/2024-09-11.md",
