@@ -1,0 +1,6 @@
+Wt Ang
+Śr VOLERE
+Czw ROBOTYKA
+
+pon AI
+CZW MATMA

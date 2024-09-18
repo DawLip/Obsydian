@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#personal  ",
+      "color": {
+        "a": 1,
+        "rgb": 870926
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.623177083333333,
+  "lineSizeMultiplier": 1.23567708333333,
+  "collapse-forces": true,
+  "centerStrength": 0.0416666666666667,
+  "repelStrength": 3.4375,
+  "linkStrength": 1,
+  "linkDistance": 134,
+  "scale": 0.6666666666666659,
+  "close": true
+}

@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "time": "text",
+    "test": "multitext",
+    "Status": "text",
+    "attempt": "number"
+  }
+}

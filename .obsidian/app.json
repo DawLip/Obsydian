@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "5 - Notes",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "4 - Templates/",
+    "5 - Notes/1 - Personal/Daily/"
+  ],
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "propertiesInDocument": "visible",
+  "promptDelete": false
+}
