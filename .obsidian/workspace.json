@@ -11,8 +11,12 @@
             "id": "813c5f28b97b7841",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -134,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5 - Notes/1 - Personal/Daily/2024-09-18.md"
+              }
             }
           },
           {
@@ -209,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "813c5f28b97b7841",
+  "active": "f2c9d86813c594cd",
   "lastOpenFiles": [
     "5 - Notes/1 - Personal/Daily/2024-09-18.md",
     "5 - Notes/Dawid Krynicki Fryzjer.md",
